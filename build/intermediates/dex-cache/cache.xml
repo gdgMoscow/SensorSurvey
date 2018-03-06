@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/aleksei/.android/build-cache/8aea78ff48e828055b932fa4bd023eb5ca28002a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/pre-dexed/debug/classes_27e2f0cbd4d0b11b71d118c038ef5f9907491059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aleksei/.android/build-cache/2608e19a1729b3d08fda96a87b8685450c7cfec0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/pre-dexed/debug/classes_84e8cc709e18c469bd94a8b6618db246bbe95766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aleksei/.android/build-cache/7d9ab32499a1ffce80cc6b1acae1ef88bafe5dde/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/pre-dexed/debug/classes_e80946e980f4008648ad1562e830cd29db3623a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aleksei/.android/build-cache/9c44922f0c490088c754090c54608857497217e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/pre-dexed/debug/classes_882e6d146fcbc1712dd59043c904a97b2766598c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aleksei/.android/build-cache/bc4e1b97dc01c0d8e1b9b595006e6c4cfdd56b57/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/pre-dexed/debug/classes_df4e3e096c7315b5e76e12de124e13dc06ca2a65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aleksei/.android/build-cache/b651cf4db6c085c26f053453c24d3724570bd61c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/pre-dexed/debug/classes_36375b8b2e1ec3a88932dd163b7fab7fa16bdddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aleksei/.android/build-cache/3dbfe2cebc3398f42516fc6bda09e493c5bfe26d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/pre-dexed/debug/classes_392a285f2eff33f715224023bba2869b61aee71c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/pre-dexed/debug/classes_a02d803f90030ba9bdb0ce84d7e7d889e0052a48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aleksei/.android/build-cache/865ae4673fa2ed30c6587c6a2f35608a0f67c761/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/pre-dexed/debug/classes_7b2c6f3316ae52295d99ddf33f96a4be10f339bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aleksei/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_73cc6a49704fc72d95f6392b5f464ba8f253c4d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aleksei/.android/build-cache/d3dfd465e26952517fb1c9302b70de624229328f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/pre-dexed/debug/classes_d332f335eb599fdd259c65e300d11d7b226d7504.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aleksei/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_739208077041e8ec957f8a34c316bd9497e646b4.jar" />
+    </item>
+
+</items>
